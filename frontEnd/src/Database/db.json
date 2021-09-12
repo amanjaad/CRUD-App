@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Sachin Tendulkar",
+      "username": "Master Blaster99",
+      "email": "masterblaster33@gmail.com",
+      "phone": "7755126395",
+      "id": 2
+    },
+    {
+      "name": "Dinesh Karthik",
+      "username": "BaukkaAnna",
+      "email": "karthiknarayanan@gmail.com",
+      "phone": "7755339944",
+      "id": 3
+    }
+  ]
+}
